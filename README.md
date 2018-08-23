@@ -12,7 +12,9 @@ You can see an overview of Javascript framework tests [here](https://medium.com/
 ## Install Mocha.js:
 
 You can install Mocha.js running the code below:
+
 `npm install --save-dev mocha`
+
 We install it as a development dependency in all of our web projects
 
 ## Configure Mocha.js:
